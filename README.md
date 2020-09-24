@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shovit Roy</h1>
-<h3 align="center">2nd Year BCA student at @IEM Collage and a Cyber Security Enthusiast.</h3>
+<h3 align="center">2nd Year BCA student at @IEM College and a Cyber Security Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovit23" alt="shovit23" /> </p>
 
