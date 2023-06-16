@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovit23" alt="shovit23" /> </p>
 
-- 🔭 I’m currently working on **Artificial intelligence and Data Analysis Projects**
+- 🔭 I’m currently working on **.Net Projects and Devops**
 
-- 🌱 I’m currently learning **Blockchain , Machine learing**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Big data Analysis , CyberSecurity , Machine learning**
+- 👯 I’m looking to collaborate on **CyberSecurity , Devops, .Net Core MVC**
 
-- 💬 Ask me about **C ,C++ ,Python ,CyberScurity ,Computer Forensics(CHFI) ,Ethical Hacking(CEH)**
+- 💬 Ask me about **C ,C++ ,Python ,CyberScurity ,Computer Forensics(CHFI) ,Ethical Hacking(CEH), Devops**
 
 - 📫 How to reach me **Shovitroy23@gmail.com**
 
