@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shovit Roy</h1>
-<h3 align="center">Analyst @ Deloitte USI and a Cyber Security Enthusiast.</h3>
+<h3 align="center">DevSecOps Engineer @ Deloitte USI and a Cyber Security Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovit23" alt="shovit23" /> </p>
 
-- 🔭 I’m currently working on **.Net Projects and Devops**
+- 🔭 I’m currently working on **.Node Projects and DevSecOps Architecture and Pipelines**
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **CyberSecurity , Devops, .Net Core MVC**
+- 👯 I’m looking to collaborate on **CyberSecurity , DevSecops, .Node , Kubernetes**
 
-- 💬 Ask me about **C ,C++ ,Python ,CyberScurity ,Computer Forensics(CHFI) ,Ethical Hacking(CEH), Devops**
+- 💬 Ask me about **DevSecOps, Kubernetes, Terraform, Python ,CyberScurity ,Computer Forensics(CHFI) ,Ethical Hacking(CEH)**
 
 - 📫 How to reach me **Shovitroy23@gmail.com**
 
