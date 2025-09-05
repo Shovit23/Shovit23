@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **.Node Projects and DevSecOps Architecture and Pipelines**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **CyberSecurity , DevSecops, .Node , Kubernetes**
+- 👯 I’m looking to collaborate on **CyberSecurity , DevSecOps, .Node , Kubernetes**
 
-- 💬 Ask me about **DevSecOps, Kubernetes, Terraform, Python ,CyberScurity ,Computer Forensics(CHFI) ,Ethical Hacking(CEH)**
+- 💬 Ask me about **DevSecOps, Kubernetes, Terraform, Python, CyberScurity, Computer Forensics(CHFI), Ethical Hacking(CEH)**
 
 - 📫 How to reach me **Shovitroy23@gmail.com**
 
